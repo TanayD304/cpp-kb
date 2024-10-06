@@ -3,7 +3,7 @@
 ## Table of contents
 
 - Overview of C++ - October 6th, 2024
-- Basics of C++
+- Basics of C++ - October 6th, 2024
 - Variables and Constants in C++
 - Data Types and Literals in C++
 - Operators in C++
@@ -33,4 +33,4 @@
 
 ## Dates
 
-- October 6th, 2024 -
+- October 6th, 2024 - Overview of C++, Basics of C++
