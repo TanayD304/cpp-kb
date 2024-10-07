@@ -4,7 +4,7 @@
 
 - Overview of C++ - October 6th, 2024
 - Basics of C++ - October 6th, 2024
-- Variables and Constants in C++
+- Variables and Constants in C++ - October 7th, 2024
 - Data Types and Literals in C++
 - Operators in C++
 - Input/Output in C++
@@ -34,3 +34,5 @@
 ## Dates
 
 - October 6th, 2024 - Overview of C++, Basics of C++
+- October 7th, 2024 - Variables and Constants in C++
+- 
