@@ -23,7 +23,7 @@
 - Inheritance in C++
 - Virtual Functions in C++
 - Exception Handling in C++
-- Files and Streams in C++
+- Files and Streams in C++ - October 8th, 2024
 - Templates in C++
 - STL in C++
 - Iterators in C++
@@ -35,4 +35,4 @@
 
 - October 6th, 2024 - Overview of C++, Basics of C++
 - October 7th, 2024 - Variables and Constants in C++
-- 
+- October 8th, 2024 - Files and Streams in C++
