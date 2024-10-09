@@ -22,7 +22,7 @@
 - Operator Overloading in C++
 - Inheritance in C++
 - Virtual Functions in C++
-- Exception Handling in C++
+- Exception Handling in C++ - October 9th, 2024
 - Files and Streams in C++ - October 8th, 2024
 - Templates in C++
 - STL in C++
@@ -36,3 +36,13 @@
 - October 6th, 2024 - Overview of C++, Basics of C++
 - October 7th, 2024 - Variables and Constants in C++
 - October 8th, 2024 - Files and Streams in C++
+- October 9th, 2024 - Exception Handling in C++
+
+## Counts
+- Total - 28
+- Completed - 5
+- Left - 23
+
+## Topice wise
+
+###
