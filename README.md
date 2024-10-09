@@ -46,28 +46,28 @@
 ## Topice wise
 
 ### C++ Overview
-- Introduction to C++
-- Features of C++
-- History of C++
-- Interesting Facts about C++
-- Setting up C++ Development Environment
-- Similarities and Differences between C++ and C
+- Introduction to C++ - done
+- Features of C++  - done
+- History of C++ - done
+- Interesting Facts about C++ - done
+- Setting up C++ Development Environment - done
+- Similarities and Differences between C++ and C - done
 
 ### C++ Basics
-- First C++ Program
-- C++ Basic Syntax
-- C++ Comments
-- C++ Tokens
-- C++ Identifiers
-- C++ Keywords
-- Difference between Keyword and Identifier
+- First C++ Program - done
+- C++ Basic Syntax - done
+- C++ Comments - done
+- C++ Tokens - done
+- C++ Identifiers - done
+- C++ Keywords - done
+- Difference between Keyword and Identifier - done
 
 ### C++ Variables and Constants
-- C++ Variables
-- C++ Constants
-- Scope of C++ Variables
-- C++ Storage Classes
-- C++ Static Variables
+- C++ Variables - done
+- C++ Constants - done
+- Scope of C++ Variables - done
+- C++ Storage Classes - done
+- C++ Static Variables - done
 
 ### C++ Data Types and Literals
 - C++ Data Types
@@ -251,14 +251,14 @@
 - Can C++ Virtual Functions be Private?
 
 ### C++ Exception Handling
-- C++ Exception Handling
-- C++ Exception Handling using Classes
-- C++ Stack Unwinding
-- C++ User-Defined Exceptions
+- C++ Exception Handling - done
+- C++ Exception Handling using Classes - done
+- C++ Stack Unwinding - done
+- C++ User-Defined Exceptions - done
 
 ### C++ Files and Streams
-- C++ Files and Streams
-- C++ I/O Redirection
+- C++ Files and Streams - done
+- C++ I/O Redirection - done
 
 ### C++ Templates
 - C++ Templates
@@ -323,6 +323,6 @@
 
 ## Count(minors)
 
-- Total -
-- Done -
-- Left - 
+- Total - 221
+- Done - 24
+- Left - 197
