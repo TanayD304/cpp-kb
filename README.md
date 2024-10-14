@@ -46,28 +46,28 @@
 ## Topice wise
 
 ### C++ Overview
-- Introduction to C++ - done
-- Features of C++  - done
-- History of C++ - done
-- Interesting Facts about C++ - done
-- Setting up C++ Development Environment - done
-- Similarities and Differences between C++ and C - done
+- Introduction to C++ - done - October 6th, 2024
+- Features of C++  - done - October 6th, 2024
+- History of C++ - done - October 6th, 2024
+- Interesting Facts about C++ - done - October 6th, 2024
+- Setting up C++ Development Environment - done - October 6th, 2024
+- Similarities and Differences between C++ and C - done - October 6th, 2024
 
 ### C++ Basics
-- First C++ Program - done
-- C++ Basic Syntax - done
-- C++ Comments - done
-- C++ Tokens - done
-- C++ Identifiers - done
-- C++ Keywords - done
-- Difference between Keyword and Identifier - done
+- First C++ Program - done - October 6th, 2024
+- C++ Basic Syntax - done - October 6th, 2024
+- C++ Comments - done - October 6th, 2024
+- C++ Tokens - done - October 6th, 2024
+- C++ Identifiers - done - October 6th, 2024
+- C++ Keywords - done - October 6th, 2024
+- Difference between Keyword and Identifier - done - October 6th, 2024
 
 ### C++ Variables and Constants
-- C++ Variables - done
-- C++ Constants - done
-- Scope of C++ Variables - done
-- C++ Storage Classes - done
-- C++ Static Variables - done
+- C++ Variables - done - October 7th, 2024
+- C++ Constants - done - October 7th, 2024
+- Scope of C++ Variables - done - October 7th, 2024
+- C++ Storage Classes - done - October 7th, 2024
+- C++ Static Variables - done - October 7th, 2024
 
 ### C++ Data Types and Literals
 - C++ Data Types
@@ -251,14 +251,14 @@
 - Can C++ Virtual Functions be Private?
 
 ### C++ Exception Handling
-- C++ Exception Handling - done
-- C++ Exception Handling using Classes - done
-- C++ Stack Unwinding - done
-- C++ User-Defined Exceptions - done
+- C++ Exception Handling - done - October 9th, 2024
+- C++ Exception Handling using Classes - done - October 9th, 2024
+- C++ Stack Unwinding - done - October 9th, 2024
+- C++ User-Defined Exceptions - done - October 9th, 2024
 
 ### C++ Files and Streams
-- C++ Files and Streams - done
-- C++ I/O Redirection - done
+- C++ Files and Streams - done - October 8th, 2024
+- C++ I/O Redirection - done - October 8th, 2024
 
 ### C++ Templates
 - C++ Templates
