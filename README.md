@@ -37,6 +37,7 @@
 - October 7th, 2024 - Variables and Constants in C++
 - October 8th, 2024 - Files and Streams in C++
 - October 9th, 2024 - Exception Handling in C++
+- October 15th, 2024 -
 
 ## Counts(majors)
 - Total - 28
@@ -196,7 +197,7 @@
 - Why C++ is a partially Object Oriented Language?
 
 ### C++ Encapsulation and Abstraction
-- C++ Encapsulation
+- C++ Encapsulation - done - October 15th, 2024
 - C++ Abstraction
 - Difference between Abstraction and Encapsulation in C++
 
