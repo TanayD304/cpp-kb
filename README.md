@@ -198,7 +198,7 @@
 
 ### C++ Encapsulation and Abstraction
 - C++ Encapsulation - done - October 15th, 2024
-- C++ Abstraction
+- C++ Abstraction - done - October 15th, 2024
 - Difference between Abstraction and Encapsulation in C++
 
 ### C++ Polymorphism
