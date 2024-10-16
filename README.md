@@ -175,8 +175,8 @@
 
 ### C++ Object-Oriented Programming
 - C++ Object Oriented Programming (OOPs) - done - October 16th, 2024
-- C++ Classes and Objects
-- C++ Access Modifiers
+- C++ Classes and Objects - done - October 16th, 2024
+- C++ Access Modifiers - done - October 16th, 2024
 - C++ Friend Class and Function
 - C++ Constructors
 - C++ Default Constructors
