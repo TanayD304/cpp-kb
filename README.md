@@ -326,5 +326,5 @@
 ## Count(minors)
 
 - Total - 221
-- Done - 28
-- Left - 193
+- Done - 30
+- Left - 191
