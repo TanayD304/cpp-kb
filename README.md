@@ -37,12 +37,13 @@
 - October 7th, 2024 - Variables and Constants in C++
 - October 8th, 2024 - Files and Streams in C++
 - October 9th, 2024 - Exception Handling in C++
-- October 15th, 2024 -
+- October 15th, 2024 - C++ Encapsulation and Abstraction
+- October 16th, 2024
 
 ## Counts(majors)
 - Total - 28
-- Completed - 5
-- Left - 23
+- Completed - 6
+- Left - 22
 
 ## Topice wise
 
@@ -173,7 +174,7 @@
 - Difference between Static and Dynamic Memory Allocation in C++
 
 ### C++ Object-Oriented Programming
-- C++ Object Oriented Programming (OOPs)
+- C++ Object Oriented Programming (OOPs) - done - October 16th, 2024
 - C++ Classes and Objects
 - C++ Access Modifiers
 - C++ Friend Class and Function
@@ -199,7 +200,7 @@
 ### C++ Encapsulation and Abstraction
 - C++ Encapsulation - done - October 15th, 2024
 - C++ Abstraction - done - October 15th, 2024
-- Difference between Abstraction and Encapsulation in C++
+- Difference between Abstraction and Encapsulation in C++ - done - October 15th, 2024
 
 ### C++ Polymorphism
 - C++ Polymorphism
@@ -325,5 +326,5 @@
 ## Count(minors)
 
 - Total - 221
-- Done - 24
-- Left - 197
+- Done - 28
+- Left - 193
