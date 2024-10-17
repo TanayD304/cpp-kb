@@ -39,6 +39,7 @@
 - October 9th, 2024 - Exception Handling in C++
 - October 15th, 2024 - C++ Encapsulation and Abstraction
 - October 16th, 2024
+- October 17th, 2024
 
 ## Counts(majors)
 - Total - 28
@@ -177,7 +178,7 @@
 - C++ Object Oriented Programming (OOPs) - done - October 16th, 2024
 - C++ Classes and Objects - done - October 16th, 2024
 - C++ Access Modifiers - done - October 16th, 2024
-- C++ Friend Class and Function
+- C++ Friend Class and Function - done - October 17th, 2024
 - C++ Constructors
 - C++ Default Constructors
 - C++ Copy Constructor
@@ -326,5 +327,5 @@
 ## Count(minors)
 
 - Total - 221
-- Done - 30
-- Left - 191
+- Done - 31
+- Left - 190
