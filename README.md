@@ -33,13 +33,17 @@
 
 ## Dates
 
-- October 6th, 2024 - Overview of C++, Basics of C++
-- October 7th, 2024 - Variables and Constants in C++
-- October 8th, 2024 - Files and Streams in C++
-- October 9th, 2024 - Exception Handling in C++
-- October 15th, 2024 - C++ Encapsulation and Abstraction
-- October 16th, 2024
-- October 17th, 2024
+- October 6th, 2024 - Overview of C++, Basics of C++ - 13 articles
+- October 7th, 2024 - Variables and Constants in C++ - 5 articles
+- October 8th, 2024 - Files and Streams in C++ - 2 articles
+- October 9th, 2024 - Exception Handling in C++ - 3 articles
+- October 15th, 2024 - C++ Encapsulation and Abstraction - 3 articles
+- October 16th, 2024 - Classes and Objects - 3 articles
+- October 17th, 2024 - Classes and Objects - 3 articles
+- October 18th, 2024 - Classes and Objects - 3 articles
+
+## Days
+- Count - 8
 
 ## Counts(majors)
 - Total - 28
@@ -179,9 +183,11 @@
 - C++ Classes and Objects - done - October 16th, 2024
 - C++ Access Modifiers - done - October 16th, 2024
 - C++ Friend Class and Function - done - October 17th, 2024
-- C++ Constructors
-- C++ Default Constructors
+- C++ Constructors - done - October 17th, 2024
+- C++ Default Constructors - done - October 17th, 2024
+- C++ Parameterised Constructor - done - October 18th, 2024
 - C++ Copy Constructor
+- C++ Move Constructor
 - C++ Destructors
 - C++ Private Destructor
 - When is the Copy Constructor Called?
@@ -326,6 +332,6 @@
 
 ## Count(minors)
 
-- Total - 221
-- Done - 31
+- Total - 223
+- Done - 33
 - Left - 190
