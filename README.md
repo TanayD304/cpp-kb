@@ -16,7 +16,7 @@
 - Structures and Union in C++
 - Dynamic Memory Management in C++
 - Object-Oriented Programming in C++
-- Encapsulation and Abstraction in C++
+- Encapsulation and Abstraction in C++ - October 15th, 2024
 - Polymorphism in C++
 - Function Overloading in C++
 - Operator Overloading in C++
@@ -186,8 +186,8 @@
 - C++ Constructors - done - October 17th, 2024
 - C++ Default Constructors - done - October 17th, 2024
 - C++ Parameterised Constructor - done - October 18th, 2024
-- C++ Copy Constructor
-- C++ Move Constructor
+- C++ Copy Constructor - done - October 18th, 2024
+- C++ Move Constructor - done - October 18th, 2024
 - C++ Destructors
 - C++ Private Destructor
 - When is the Copy Constructor Called?
@@ -335,3 +335,9 @@
 - Total - 223
 - Done - 33
 - Left - 190
+
+## Self Notes
+
+### October 18th, 2024
+- Move Constructors need some more understanding.
+- Implementation of move constructors needs to be checked once
