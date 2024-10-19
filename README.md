@@ -41,9 +41,10 @@
 - October 16th, 2024 - Classes and Objects - 3 articles
 - October 17th, 2024 - Classes and Objects - 3 articles
 - October 18th, 2024 - Classes and Objects - 3 articles
+- October 19th, 2024 - Classes and Objects - 6 articles
 
 ## Days
-- Count - 8
+- Count - 9
 
 ## Counts(majors)
 - Total - 28
@@ -188,12 +189,12 @@
 - C++ Parameterised Constructor - done - October 18th, 2024
 - C++ Copy Constructor - done - October 18th, 2024
 - C++ Move Constructor - done - October 18th, 2024
-- C++ Destructors
-- C++ Private Destructor
-- When is the Copy Constructor Called?
-- Shallow Copy and Deep Copy in C++
-- When Should We Write Our Own Copy Constructor?
-- Does the Compiler Create a Default Constructor When We Write Our Own?
+- C++ Destructors - done - October 19th, 2024
+- C++ Private Destructor - done - October 19th, 2024
+- When is the Copy Constructor Called? - done - October 19th, 2024
+- Shallow Copy and Deep Copy in C++ - done - October 19th, 2024
+- When Should We Write Our Own Copy Constructor? - done - October 19th, 2024
+- Does the Compiler Create a Default Constructor When We Write Our Own? - done - October 19th, 2024
 - C++ Static Data Members
 - C++ Static Member Functions
 - C++ this pointer
@@ -333,8 +334,8 @@
 ## Count(minors)
 
 - Total - 223
-- Done - 33
-- Left - 190
+- Done - 41
+- Left - 182
 
 ## Self Notes
 
