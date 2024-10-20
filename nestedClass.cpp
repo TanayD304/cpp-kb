@@ -15,7 +15,7 @@ class enclosing {
                 }
         };
         void showNested(nested& n) {
-            cout<<n.y<<endl; // will give error
+            // cout<<n.y<<endl; // will give error
         }
 
 };
