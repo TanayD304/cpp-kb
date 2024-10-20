@@ -42,6 +42,8 @@
 - October 17th, 2024 - Classes and Objects - 3 articles
 - October 18th, 2024 - Classes and Objects - 3 articles
 
+- October 20th, 2024 - Classes and Objects - 6 articles
+
 ## Days
 - Count - 8
 
@@ -194,12 +196,12 @@
 - Shallow Copy and Deep Copy in C++
 - When Should We Write Our Own Copy Constructor?
 - Does the Compiler Create a Default Constructor When We Write Our Own?
-- C++ Static Data Members
-- C++ Static Member Functions
-- C++ this pointer
-- C++ Scope Resolution Operator vs this pointer
-- C++ Local Class
-- C++ Nested Classes
+- C++ Static Data Members - done - October 20th, 2024
+- C++ Static Member Functions - done - October 20th, 2024
+- C++ this pointer - done - October 20th, 2024
+- C++ Scope Resolution Operator vs this pointer - done - October 20th, 2024
+- C++ Local Class - done - October 20th, 2024
+- C++ Nested Classes - done - October 20th, 2024
 - C++ enum Class
 - Difference between Structure and Class in C++
 - Why C++ is a partially Object Oriented Language?
@@ -333,8 +335,8 @@
 ## Count(minors)
 
 - Total - 223
-- Done - 33
-- Left - 190
+- Done - 39
+- Left - 184
 
 ## Self Notes
 
