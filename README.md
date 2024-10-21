@@ -43,14 +43,15 @@
 - October 18th, 2024 - Classes and Objects - 3 articles
 
 - October 20th, 2024 - Classes and Objects - 6 articles
+- October 21st, 2024 - Classes and Objects - 3 articles
 
 ## Days
-- Count - 8
+- Count - 11
 
 ## Counts(majors)
 - Total - 28
-- Completed - 6
-- Left - 22
+- Completed - 7
+- Left - 21
 
 ## Topice wise
 
@@ -202,9 +203,9 @@
 - C++ Scope Resolution Operator vs this pointer - done - October 20th, 2024
 - C++ Local Class - done - October 20th, 2024
 - C++ Nested Classes - done - October 20th, 2024
-- C++ enum Class
-- Difference between Structure and Class in C++
-- Why C++ is a partially Object Oriented Language?
+- C++ enum Class - done - October 21st, 2024
+- Difference between Structure and Class in C++ - done - October 21st, 2024
+- Why C++ is a partially Object Oriented Language? - done - October 21st, 2024
 
 ### C++ Encapsulation and Abstraction
 - C++ Encapsulation - done - October 15th, 2024
@@ -335,8 +336,8 @@
 ## Count(minors)
 
 - Total - 223
-- Done - 39
-- Left - 184
+- Done - 42
+- Left - 181
 
 ## Self Notes
 
