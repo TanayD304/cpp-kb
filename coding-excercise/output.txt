@@ -1,4 +1,0 @@
-20.556
-The individual bill at location 1 will be $20
-The individual bill at location 2 will be $21
-The individual bill at location 3 will be $2056
