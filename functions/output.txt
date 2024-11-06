@@ -1,7 +1,4 @@
-25
-50
-Inside function
-50
-100
-Outside function
-50
+Hello
+25.12
+1
+1
