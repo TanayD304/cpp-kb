@@ -30,7 +30,7 @@ Total sections - 18
 - 1
 
 ## Progress Check
-- November 4th 2024 - Setup and preparation
+- November 6th 2024 - Functions
 
 
 ## Points to remember
